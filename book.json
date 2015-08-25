@@ -1,5 +1,31 @@
 {
   "variables": {
-    "host": "http://ymser-taiwan.gitbooks.io/2015-starter-guide/content/"
+    "host": "https://github.com/kavare/yms-starter-guide",
+    "contributors": [
+      {
+        "name": "kavare",
+        "link": "http://kavare.github.io/portfolio"
+      }
+    ],
+    "providers": [
+      {
+        "name": "haofeng",
+        "link": "http://haofeng.pixnet.net/blog/post/246458-%E6%B1%82%E8%81%B7%E7%9A%84%E6%88%90%E5%8A%9F%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB~-au-pair---nanny-%E7%AF%87"
+      },
+      {
+        "name": "heiditraveler",
+        "link": "http://heiditraveler.pixnet.net/blog/post/44882347-%E3%80%90%E5%80%92%E6%95%B8%E6%97%A5%E5%AD%90%E5%8E%BB%E8%8B%B1%E5%9C%8B%E3%80%91%E5%8E%9F%E4%BE%86%E9%80%99%E5%B0%B1%E6%98%AF%E4%BA%92%E6%83%A0%E7%94%9F"
+      }
+    ],
+    "communities": [
+      {
+        "name": "[FB] 英國打工渡假情報站",
+        "link": "https://www.facebook.com/groups/UKworker/"
+      },
+      {
+        "name": "[FB] 英國求職討論區",
+        "link": "https://www.facebook.com/groups/594225420633426/"
+      }
+    ]
   }
 }

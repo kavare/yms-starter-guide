@@ -38,6 +38,15 @@
   * [倫敦旅遊](travel/travel_london.md)
   * [英國旅遊](travel/travel_uk.md)
   * [歐洲旅遊](travel/travel_europe.md)
+* [YMS 心得分享](sharing/sharing.md)
+  * 2015心得
+    * [2015心得](sharing/2015/test.md)
+  * 2014心得
+    * [2014心得](sharing/2014/test.md)
+  * 2013心得
+    * [2013心得](sharing/2013/test.md)
+  * 2012心得
+    * [2012心得](sharing/2012/test.md)
 * [YMS 常見問題](faq/faq.md)
   * [簽證](faq/faq_visa.md)
   * [工作](faq/faq_jobs.md)
